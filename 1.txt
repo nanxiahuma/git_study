@@ -2,5 +2,10 @@
 123123123123
 wo ai beijing
 hahahhahahhahah
+<<<<<<< Updated upstream
 this is the new
 123123123123
+=======
+this is the new
+>>>>>>> Stashed changes
+feng
