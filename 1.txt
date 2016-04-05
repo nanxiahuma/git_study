@@ -2,19 +2,11 @@
 123123123123
 wo ai beijing
 hahahhahahhahah
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
+
 this is the new
 123123123123
-=======
 this is the new
->>>>>>> Stashed changes
 feng
-=======
 this is the new
->>>>>>> Stashed changes
-=======
 this is the new
->>>>>>> Stashed changes
  do some change for branch
