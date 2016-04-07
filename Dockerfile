@@ -1,5 +1,3 @@
-FROM java:7
-RUN COPY hello.java .
-RUN javac hello.java
+FROM image
+RUN echo "this is a github docker image"
 
-CMD ["java","hello"]
