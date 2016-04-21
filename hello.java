@@ -2,7 +2,7 @@ class tank{
 	int level;
 }
 
-public class test{
+public class hello{
 	public static void main(String[] args){
 		tank t1 = new tank();
 		t1.level = 2;
