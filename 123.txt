@@ -1,2 +1,3 @@
 this is 123.txt
-just a test
+just a test -append
+add a new line
